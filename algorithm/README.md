@@ -4,6 +4,11 @@
 
 - 기초 문제
 - 완전 탐색
+
+  - 순열
+  - 조합
+  - 부분집합
+
 - 자료 구조
   - 스택
   - 큐
@@ -52,7 +57,7 @@
 |     | 01  | [BJ2023\_신기한소수](https://www.acmicpc.net/problem/2023)                                                                          |    조합     | [Java Code](https://github.com/wlsgh7608/JinoWiki/blob/main/algorithm/src/P016_BJ2023_%EC%8B%A0%EA%B8%B0%ED%95%9C%EC%86%8C%EC%88%98.java)                                                                  |
 |     | 02  | [SWEA9229\_한빈이와SpotMart](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AW8Wj7cqbY0DFAXN)         |             | [Java Code](https://github.com/wlsgh7608/JinoWiki/blob/main/algorithm/src/P020_SWEA9229_%ED%95%9C%EB%B9%88%EC%9D%B4%EC%99%80SpotMart.java)                                                                 |
 |     | 03  | [SWEA6808\_규영이와인영이의카드게임](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWgv9va6HnkDFAW0) |    순열     | [Java Code](https://github.com/wlsgh7608/JinoWiki/blob/main/algorithm/src/P022_SWEA6808_%EA%B7%9C%EC%98%81%EC%9D%B4%EC%99%80%EC%9D%B8%EC%98%81%EC%9D%B4%EC%9D%98%EC%B9%B4%EB%93%9C%EA%B2%8C%EC%9E%84.java) |
-|     | 04  | [BJ2961\_도영이가만든맛있는음식](https://www.acmicpc.net/problem/2961)                                                              |  부분조합   | [Java Code](https://github.com/wlsgh7608/JinoWiki/blob/main/algorithm/src/P030_BJ2961_%EB%8F%84%EC%98%81%EC%9D%B4%EA%B0%80%EB%A7%8C%EB%93%A0%EB%A7%9B%EC%9E%88%EB%8A%94%EC%9D%8C%EC%8B%9D.java)            |
+|     | 04  | [BJ2961\_도영이가만든맛있는음식](https://www.acmicpc.net/problem/2961)                                                              |  부분집합   | [Java Code](https://github.com/wlsgh7608/JinoWiki/blob/main/algorithm/src/P030_BJ2961_%EB%8F%84%EC%98%81%EC%9D%B4%EA%B0%80%EB%A7%8C%EB%93%A0%EB%A7%9B%EC%9E%88%EB%8A%94%EC%9D%8C%EC%8B%9D.java)            |
 |     | 05  | [BJ3040\_백설공주와일곱난쟁이](https://www.acmicpc.net/problem/3040)                                                                |    조합     | [Java Code](https://github.com/wlsgh7608/JinoWiki/blob/main/algorithm/src/P031_BJ3040_%EB%B0%B1%EC%84%A4%EA%B3%B5%EC%A3%BC%EC%99%80%EC%9D%BC%EA%B3%B1%EB%82%9C%EC%9F%81%EC%9D%B4.java)                     |
 |  ★  | 06  | [BJ15686치킨배달](https://www.acmicpc.net/problem/15686)                                                                            |    조합     | [Java Code](https://github.com/wlsgh7608/JinoWiki/blob/main/algorithm/src/P032_BJ15686%EC%B9%98%ED%82%A8%EB%B0%B0%EB%8B%AC.java)                                                                           |
 |     | 07  | [SWEA4012\_요리사](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeUtVakTMDFAVH)                   | 조합+빡구현 | [Java Code](https://github.com/wlsgh7608/JinoWiki/blob/main/algorithm/src/P034_SWEA4012_%EC%9A%94%EB%A6%AC%EC%82%AC.java)                                                                                  |

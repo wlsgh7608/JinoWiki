@@ -1,1 +1,3 @@
 # JinoWiki
+
+# Algorithm

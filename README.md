@@ -1,5 +1,9 @@
 # JinoWiki
 
+# Java
+
+- [자바 동작과정](https://github.com/wlsgh7608/JinoWiki/blob/main/network/%EC%9E%90%EB%B0%94%20%EB%8F%99%EC%9E%91%EA%B3%BC%EC%A0%95.md)
+
 # Algorithm
 
 - [알고리즘 유형분류](https://github.com/wlsgh7608/JinoWiki/tree/main/algorithm)

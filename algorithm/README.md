@@ -34,6 +34,7 @@
   - [슬라이딩 윈도우](#슬라이딩-윈도우)
   - [소수 판별](#소수-판별)
   - [2차원 배열 회전](#2차원-배열-회전--반전-익숙하지-않아)
+  - [수학](#수학)
 
 <br>
 <br>
@@ -183,6 +184,7 @@
 |  ★  | 09  | [BJ17144\_미세먼지안녕](https://www.acmicpc.net/problem/17144)                                                            |                | [Java Code](https://github.com/wlsgh7608/JinoWiki/blob/main/algorithm/src/P062_BJ17144_%EB%AF%B8%EC%84%B8%EB%A8%BC%EC%A7%80%EC%95%88%EB%85%95.java)                  |
 |     | 10  | [BJ17143\_낚시왕](https://www.acmicpc.net/problem/17143)                                                                  | 빡구현(어려움) | [Java Code](https://github.com/wlsgh7608/JinoWiki/blob/main/algorithm/src/P073_BJ17143_%EB%82%9A%EC%8B%9C%EC%99%95.java)                                             |
 |     | 11  | [BJ1194\_달이차오른다가자](https://www.acmicpc.net/problem/1194)                                                          |   비트마스킹   | [Java Code](https://github.com/wlsgh7608/JinoWiki/blob/main/algorithm/src/P074_BJ1194_%EB%8B%AC%EC%9D%B4%EC%B0%A8%EC%98%A4%EB%A5%B8%EB%8B%A4%EA%B0%80%EC%9E%90.java) |
+|     | 12  | [SWEA4014\_활주로건설](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeW7FakkUDFAVH)     |                | [Java Code]()                                                                                                                                                        |
 
 <br>
 
@@ -236,6 +238,7 @@
 |  ☆  |  #  | Problem                                                      | Note | Code                                                                                                                                 |
 | :-: | :-: | :----------------------------------------------------------- | :--: | :----------------------------------------------------------------------------------------------------------------------------------- |
 |     | 01  | [BJ12891_DNA비밀번호](https://www.acmicpc.net/problem/12891) |      | [Java Code](https://github.com/wlsgh7608/JinoWiki/blob/main/algorithm/src/P015_BJ12891_DNA%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8.java) |
+|     | 01  | [BJ15961\_회전초밥](https://www.acmicpc.net/problem/15961)   |      | [Java Code]()                                                                                                                        |
 
 <br>
 
@@ -254,3 +257,10 @@
 |     | 01  | [BJ16926\_배열돌리기1](https://www.acmicpc.net/problem/16926) |        | [Java Code](https://github.com/wlsgh7608/JinoWiki/blob/main/algorithm/src/P025_BJ16926_%EB%B0%B0%EC%97%B4%EB%8F%8C%EB%A6%AC%EA%B8%B01.java) |
 |     | 02  | [BJ16935\_배열돌리기3](https://www.acmicpc.net/problem/16935) |        | [Java Code](https://github.com/wlsgh7608/JinoWiki/blob/main/algorithm/src/P026_BJ16935_%EB%B0%B0%EC%97%B4%EB%8F%8C%EB%A6%AC%EA%B8%B03.java) |
 |     | 03  | [BJ17406\_배열돌리기4](https://www.acmicpc.net/problem/17406) | 빡구현 | [Java Code](https://github.com/wlsgh7608/JinoWiki/blob/main/algorithm/src/P028_BJ17406_%EB%B0%B0%EC%97%B4%EB%8F%8C%EB%A6%AC%EA%B8%B04.java) |
+
+### 수학
+
+|  ☆  |  #  | Problem                                                  | Note | Code          |
+| :-: | :-: | :------------------------------------------------------- | :--: | :------------ |
+|     | 01  | P084_CT_13일의금요일                                     |      | [Java Code]() |
+|     | 02  | [BJ1708\_볼록껍질](https://www.acmicpc.net/problem/1708) |      | [Java Code]() |

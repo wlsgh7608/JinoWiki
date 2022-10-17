@@ -184,7 +184,7 @@
 |  ★  | 09  | [BJ17144\_미세먼지안녕](https://www.acmicpc.net/problem/17144)                                                            |                | [Java Code](https://github.com/wlsgh7608/JinoWiki/blob/main/algorithm/src/P062_BJ17144_%EB%AF%B8%EC%84%B8%EB%A8%BC%EC%A7%80%EC%95%88%EB%85%95.java)                  |
 |     | 10  | [BJ17143\_낚시왕](https://www.acmicpc.net/problem/17143)                                                                  | 빡구현(어려움) | [Java Code](https://github.com/wlsgh7608/JinoWiki/blob/main/algorithm/src/P073_BJ17143_%EB%82%9A%EC%8B%9C%EC%99%95.java)                                             |
 |     | 11  | [BJ1194\_달이차오른다가자](https://www.acmicpc.net/problem/1194)                                                          |   비트마스킹   | [Java Code](https://github.com/wlsgh7608/JinoWiki/blob/main/algorithm/src/P074_BJ1194_%EB%8B%AC%EC%9D%B4%EC%B0%A8%EC%98%A4%EB%A5%B8%EB%8B%A4%EA%B0%80%EC%9E%90.java) |
-|     | 12  | [SWEA4014\_활주로건설](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeW7FakkUDFAVH)     |                | [Java Code]()                                                                                                                                                        |
+|     | 12  | [SWEA4014\_활주로건설](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeW7FakkUDFAVH)     |                | [Java Code](https://github.com/wlsgh7608/JinoWiki/blob/main/algorithm/src/P082_SWEA4014_%ED%99%9C%EC%A3%BC%EB%A1%9C%EA%B1%B4%EC%84%A4.java)                          |
 
 <br>
 
@@ -238,7 +238,7 @@
 |  ☆  |  #  | Problem                                                      | Note | Code                                                                                                                                 |
 | :-: | :-: | :----------------------------------------------------------- | :--: | :----------------------------------------------------------------------------------------------------------------------------------- |
 |     | 01  | [BJ12891_DNA비밀번호](https://www.acmicpc.net/problem/12891) |      | [Java Code](https://github.com/wlsgh7608/JinoWiki/blob/main/algorithm/src/P015_BJ12891_DNA%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8.java) |
-|     | 01  | [BJ15961\_회전초밥](https://www.acmicpc.net/problem/15961)   |      | [Java Code]()                                                                                                                        |
+|     | 01  | [BJ15961\_회전초밥](https://www.acmicpc.net/problem/15961)   |      | [Java Code](https://github.com/wlsgh7608/JinoWiki/blob/main/algorithm/src/P083_BJ15961_%ED%9A%8C%EC%A0%84%EC%B4%88%EB%B0%A5.java)    |
 
 <br>
 
@@ -260,7 +260,7 @@
 
 ### 수학
 
-|  ☆  |  #  | Problem                                                  | Note | Code          |
-| :-: | :-: | :------------------------------------------------------- | :--: | :------------ |
-|     | 01  | P084_CT_13일의금요일                                     |      | [Java Code]() |
-|     | 02  | [BJ1708\_볼록껍질](https://www.acmicpc.net/problem/1708) |      | [Java Code]() |
+|  ☆  |  #  | Problem                                                  | Note | Code                                                                                                                                    |
+| :-: | :-: | :------------------------------------------------------- | :--: | :-------------------------------------------------------------------------------------------------------------------------------------- |
+|     | 01  | P084_CT_13일의금요일                                     |      | [Java Code](https://github.com/wlsgh7608/JinoWiki/blob/main/algorithm/src/P084_CT_13%EC%9D%BC%EC%9D%98%EA%B8%88%EC%9A%94%EC%9D%BC.java) |
+|     | 02  | [BJ1708\_볼록껍질](https://www.acmicpc.net/problem/1708) |      | [Java Code](https://github.com/wlsgh7608/JinoWiki/blob/main/algorithm/src/P087_BJ1708_%EB%B3%BC%EB%A1%9D%EA%BB%8D%EC%A7%88.java)        |

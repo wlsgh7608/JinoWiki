@@ -16,8 +16,9 @@
 # 네트워크
 
 - [네트워크 기본](https://github.com/wlsgh7608/JinoWiki/blob/main/network/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EA%B8%B0%EB%B3%B8.md)
-- [TCP]https://github.com/wlsgh7608/JinoWiki/blob/main/network/TCP.md)
+- [TCP](https://github.com/wlsgh7608/JinoWiki/blob/main/network/TCP.md)
 
 # 보안
 
-- [세션 기반 인증]()
+- [세션 기반 인증](https://github.com/wlsgh7608/JinoWiki/blob/main/security/%EC%84%B8%EC%85%98%20%EA%B8%B0%EB%B0%98%EC%9D%B8%EC%A6%9D.md)
+- [세션, 쿠키](https://github.com/wlsgh7608/JinoWiki/blob/main/security/%EC%84%B8%EC%85%98%2C%EC%BF%A0%ED%82%A4.md)

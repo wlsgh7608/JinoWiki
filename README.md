@@ -8,6 +8,8 @@
 # 스프링
 
 - [스프링 레거시 mvc 동작과정](https://github.com/wlsgh7608/JinoWiki/blob/main/spring/%EC%8A%A4%ED%94%84%EB%A7%81%20mvc%20%EB%8F%99%EC%9E%91%EA%B3%BC%EC%A0%95.md)
+- [스프링 빈 조회](https://github.com/wlsgh7608/JinoWiki/blob/main/spring/%EC%8A%A4%ED%94%84%EB%A7%81%20%EB%B9%88%20%EC%A1%B0%ED%9A%8C.md)
+- [컴포넌트 스캔](https://github.com/wlsgh7608/JinoWiki/blob/main/spring/%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%20%EC%8A%A4%EC%BA%94.md)
 
 # Algorithm
 
